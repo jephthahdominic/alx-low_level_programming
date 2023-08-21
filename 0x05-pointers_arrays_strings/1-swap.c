@@ -1,5 +1,7 @@
 #include "main.h"
 /**
+ * swap_int - this function swaps two int
+ *
  * @a: first pointer
  * @b: second pointer
  *
