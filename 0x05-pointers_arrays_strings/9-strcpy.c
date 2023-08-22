@@ -2,8 +2,10 @@
 /**
  * *_strcpy - pointer to a character
  *
- * @dest - string 1 pointer 2 a char
- * @src - string 2 poimter to a char
+ * @dest: string 1 pointer 2 a char
+ *
+ * @src: string 2 poimter to a char
+ *
  * Return: character (dest)
  */
 
